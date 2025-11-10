@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS create_subjects_and_teachers;
